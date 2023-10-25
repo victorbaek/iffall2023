@@ -1,0 +1,85 @@
+body {
+    background-color: rgba(207, 218, 233, 0.836);
+  }
+  
+html {
+    font-family: 'Spinaker',sans-serif;
+    padding-left: 25%;
+    padding: 25%;
+    padding-top: 3rem;
+}
+
+.headers {
+    margin-top: 0;
+    font-size: 400%;
+    text-align: center;
+    font-weight: 560;
+    padding-bottom: 1em;
+    
+}
+.r7 {
+    border-radius: 4px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.r1 {
+    width: 35%;
+    border-radius: 4px;
+    float: right;   
+    
+    
+}
+.vertical-grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    gap: 10px;
+
+}
+
+title {
+    text-align: center;
+    
+}
+h1 {
+font-size: 120%;
+padding-top: 2rem
+}
+
+.grid using-floats {
+    display: block;
+    width: 25%;
+    text-align: center;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+.images {
+    border-radius: 25px;
+    display: flex;
+    width: 17%;
+    padding left: 1rem;
+    padding right: 10rem;
+}
+
+.r2 {
+    border-radius: 20px;
+    padding: 10%;
+}
+.r3 {
+    border-radius: 20px;
+    padding: 10%;
+}
+.r4 {
+    border-radius: 20px;
+    padding: 10%;
+}
+.r5 {
+    border-radius: 20px;
+    padding: 10%;
+}
+.r6 {
+    border-radius: 20px;
+    padding: 10%;
+}
