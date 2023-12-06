@@ -1,0 +1,137 @@
+.navbar{
+    background: rgb(34, 31, 73) ;
+    margin: center;
+}
+.navbar ul{
+    padding-top: 0px;
+    top: 0;
+    left: 0;
+    right: 0;
+    max-width: 90%;
+    margin: auto;
+    padding: 0;
+    margin: auto;
+    display: flex;
+    overflow: hidden;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+.navbar a:visited{
+   text-decoration: none;
+   color: rgb(223, 196, 147);
+   
+
+}
+.navbar a:link{
+    text-decoration: none;
+    color: rgb(223, 196, 147);
+    
+ 
+ }
+
+.navbar a{
+    background: rgb(34, 31, 73) ;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    font-family: "JejuHallasan";
+    font-size: 40;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.navbar a:hover{
+    color: rgba(223, 196, 147, 0.459);
+    text-decoration: underline;
+}
+
+main {
+    margin: 0;
+    padding: 0;
+}
+
+.seq1 {
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    display: block;
+    
+}
+
+
+.seqb {
+    max-width: 50%;
+    margin-left: 20px;
+    float: right;
+}
+
+.content-container {
+    
+    max-width: 1200px;
+    margin: auto;
+    font-size: 25;
+}
+
+img {
+    width: 100%;
+    height: 800px; 
+    object-fit: cover; 
+    display: block;
+    
+}
+body {
+    margin: 0;
+    padding-top: 0px;
+    background: rgb(223, 196, 147);
+    color: rgb(10, 54, 10);
+    font-family: 'EB Garamond', serif;
+    margin-top: 0%;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: "JejuHallasan";
+    font-size: 100;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+}
+
+p{
+    padding-top: 0px;
+    
+}
+
+.footer {
+    padding-bottom: 0;
+    background: rgb(34, 31, 73);
+    height: 120px; 
+    width: 100%;
+}
+
+.footer-text {
+    padding-top: 10px;
+    margin-left: 1%;
+    font-family: "JejuHallasan";
+    color: rgb(223, 196, 147);
+    font-size: 15px;
+    line-height: 8px;
+}
+
+a:visited{
+    text-decoration: underline;
+    color: rgb(223, 196, 147);
+    
+ 
+ }
+a:link{
+    text-decoration: underline;
+     color: rgb(223, 196, 147);
+     
+  
+  }
