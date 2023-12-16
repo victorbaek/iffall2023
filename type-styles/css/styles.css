@@ -1,0 +1,74 @@
+html {
+    color: rgb(76, 160, 194);
+    font-family: 'ubuntu', sans-serif;
+    font-size: 17pt;
+    padding: 3%;
+  }
+
+  section{
+    margin: 10px;
+    padding-top: 15px;
+    text-indent: 10rem;
+  }
+
+body {
+    margin-top: 0%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+h1 {
+    text-transform: capitalize;
+    font-size: 35pt;
+}
+
+h2 {
+  text-transform: capitalize;
+  font-size: 25pt;
+  color:rgb(24, 97, 97);
+}
+
+h3 {
+  text-transform: capitalize;
+  font-size: 45pt;
+}
+
+p{
+  color: rgb(252, 183, 55);
+}
+.normal{
+  
+}
+.lighter{
+  font-weight: lighter;
+}
+.bold{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}
+.smallem{
+  letter-spacing: .3em;
+}
+.bigem{
+  letter-spacing: -.06em;
+}
+.underline{
+  text-decoration: underline;
+}
+.linethrough{
+  text-decoration: line-through;
+}
+.overline{
+  text-decoration: overline;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.lowercase{
+  text-transform: lowercase;
+}
+.capitalize{
+  text-transform: capitalize;
+}
